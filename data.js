@@ -1,38 +1,29 @@
 const quotes = [
-  {
-    quote: 'We build our computer (systems) the way we build our cities: over time, without a plan, on top of ruins.',
+  {    quote: 'We build our computer (systems) the way we build our cities: over time, without a plan, on top of ruins.',
     person: 'Ellen Ullman'
   },
-  {
-    quote: 'The best thing about a boolean is even if you are wrong, you are only off by a bit.',
+  {    quote: 'The best thing about a boolean is even if you are wrong, you are only off by a bit.',
     person: 'Anonymous'
   },
-  {
-    quote: `If it's a good idea, go ahead and do it. It's much easier to apologize than it is to get permission.`,
+  {    quote: `If it's a good idea, go ahead and do it. It's much easier to apologize than it is to get permission.`,
     person: 'Grace Hopper'
-  },
-  {
-    quote: 'The city’s central computer told you?  R2D2, you know better than to trust a strange computer!',
+  },    
+  {    quote: 'The city’s central computer told you?  R2D2, you know better than to trust a strange computer!',
     person: 'C-3PO'
   },
-  {
-    quote: 'I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone.',
+  {    quote: 'I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone.',
     person: 'Bjarne Stroustrup'
   },
-  {
-    quote: 'Understand well as I may, my comprehension can only be an infinitesimal fraction of all I want to understand.',
+  {    quote: 'Understand well as I may, my comprehension can only be an infinitesimal fraction of all I want to understand.',
     person: 'Ada Lovelace'
   },
-  {
-    quote: 'Java is to JavaScript as ham is to hamster.',
+  {    quote: 'Java is to JavaScript as ham is to hamster.',
     person: 'Jeremy Keith'
   },
-  {
-    quote: `The most dangerous phrase in the language is, "We've always done it this way."`,
+  {    quote: `The most dangerous phrase in the language is, "We've always done it this way."`,
     person: 'Grace Hopper'
   },
-  {
-    quote: 'As soon as we started programming, we found to our surprise that it wasn’t as easy to get programs right as we had thought.  Debugging had to be discovered.  I can remember the exact instant when I realized that a large part of my life from then on was going to be spent in finding mistakes in my own programs.',
+  {    quote: 'As soon as we started programming, we found to our surprise that it wasn’t as easy to get programs right as we had thought.  Debugging had to be discovered.  I can remember the exact instant when I realized that a large part of my life from then on was going to be spent in finding mistakes in my own programs.',
     person: 'Maurice Wilkes'
   },
   {
@@ -52,6 +43,7 @@ const quotes = [
     person: 'Jon von Neumann'
   },
 ];
+
 
 module.exports = {
   quotes
